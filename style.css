@@ -22,6 +22,10 @@ body{
   background-color: var(--Almost-White);
 }
 
+.menu__dektop{
+  display: none;
+}
+
 /* HEADER */
 header{
   margin: 1.5625rem;
