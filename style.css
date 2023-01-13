@@ -26,6 +26,10 @@ body{
   display: none;
 }
 
+.login__dektop{
+    display: none;
+  }
+
 /* HEADER */
 header{
   margin: 1.5625rem;
